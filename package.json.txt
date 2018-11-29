@@ -1,0 +1,27 @@
+{
+
+  "name": "Roxie",
+
+  "description": "Flirtbot",
+
+  "version": "0.0.0",
+
+  "main": "roxiebotcode.js",
+
+“author”: “Vayhn”,
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
